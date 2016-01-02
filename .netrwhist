@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/tmp/htmltidy/tidy-html5/README'
+let g:netrw_dirhist_2='/home/felek/.vim/bundle/tcomment_vim'
+let g:netrw_dirhist_3='/home/felek/dev/threejs-inspector/experiments'
+let g:netrw_dirhist_4='/home/felek/.vim/bundle'
